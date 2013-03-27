@@ -1,0 +1,6 @@
+check process login
+  with pidfile /var/vcap/sys/run/login/login.pid
+  start program "/var/vcap/jobs/login/bin/login_ctl start"
+  stop program "/var/vcap/jobs/login/bin/login_ctl stop"
+  group vcap
+

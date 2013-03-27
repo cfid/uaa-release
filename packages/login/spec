@@ -1,0 +1,6 @@
+---
+name: login
+dependencies:
+files:
+- login/**/*
+- uaa/**/*

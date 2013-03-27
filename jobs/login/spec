@@ -1,0 +1,17 @@
+---
+name: login
+templates:
+  login_ctl.erb: bin/login_ctl
+
+  login.yml.erb: config/login.yml
+  varz.yml.erb: config/varz.yml
+  log4j.properties.erb: config/log4j.properties
+  tomcat.logging.properties: config/tomcat/logging.properties
+  tomcat.server.xml.erb: config/tomcat/server.xml
+  syslog_forwarder.conf.erb: config/syslog_forwarder.conf
+
+packages:
+  - common
+  - ruby
+  - syslog_aggregator
+  - login

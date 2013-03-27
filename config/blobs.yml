@@ -1,0 +1,38 @@
+---
+libyaml/yaml-0.1.4.tgz:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2E1MWUxMjIwMDRlNGU4ZWM2ODQwNzcwNTExZDM1%0AZmZjOTFiZCIsInNpZyI6IlIwQk51U2ZSTVQ1czgzVHpPQkZBVVFxYjJWaz0i%0AfQ==%0A
+  sha: e0e5e09192ab10a607e3da2970db492118f560f2
+  size: 471759
+ruby/rubygems-1.8.24.tgz:
+  object_id: eyJzaWciOiJkZkdFQ2k0aXFua1pESmZvalNKa09tSGtySkU9Iiwib2lkIjoi%0ANGU0ZTc4YmNhNDFlMTIyMjA0ZTRlOTg2M2QwNzYzMDRmYTFjYzI4Nzk3YTki%0AfQ==%0A
+  sha: 30f27047e74f7943117736a0d3e224994fee0905
+  size: 380101
+ruby/ruby-1.9.2-p180.tar.gz:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2EyMWUxMjEwMDRlNGU3ZDUxMWY1NTMwNGYzMDY5%0AMGM4OGZkOSIsInNpZyI6IkE1VlllWVduMVpadFNHbGRpeGM1STgzTU9Jaz0i%0AfQ==%0A
+  sha: 6a482bc07239b37bcadf68dda63c65d20dc19ebe
+  size: 11158935
+ruby/bundler-1.2.1.gem:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2EzMWUxMjEyMDRlNGU4NmVlMzk2OTIwNTBhMTYy%0ANTJmMDUyZiIsInNpZyI6InZYOFl0dktMN3k5NWNHWTZnbnpVcFpHY2tUMD0i%0AfQ==%0A
+  sha: 0cbe6ad7a41f064d6c11c1058465fffb1bd58069
+  size: 226816
+uaa/apache-tomcat-7.0.32.tar.gz:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2ExMWUxMjIyMDRlNGU5ODYzOGI3NjMwNTA3ODZj%0AYjNjNzNlMSIsInNpZyI6IklUR0hRVmorU1paeVBaVkRPMVl3ODNMN2RkMD0i%0AfQ==%0A
+  sha: 94d7efcb0d2797b196b1a7d9537e3ed53f7607f4
+  size: 7701019
+uaa/jdk1.6.0_35.tar.gz:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2E1MWUxMjEwMDRlNGU3ZDUxOTA2Y2QwNTA3YzVk%0AODNlZDNlYSIsInNpZyI6IjJoU0Z3OXE0bHh1SzBaUmh6R1BkMnlscWJpaz0i%0AfQ==%0A
+  sha: 47ead45c658f9c72577d202d8aa1675461ee3ad6
+  size: 67126391
+uaa/cloudfoundry-identity-varz-1.0.2.war:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2EyMWUxMjEyMDRlNGU4NmVlMTUxYmMwNTA5Mjhi%0AYTU4ZjUyNyIsInNpZyI6InZLWlNDdURrQ3pCVjdoKy9zWVFUL2I1M0pibz0i%0AfQ==%0A
+  sha: 8c35ed35fb6dfc4a97a243447763c635812066e8
+  size: 5727747
+uaa/cloudfoundry-identity-uaa-1.4.1.war:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2E1MWUxMjIyMDRlNGU5ODYzZjI4ZjMwNTEzNjZh%0ANGFkNjhhNyIsInNpZyI6Ik9YUGJTd1FWZWtTbXRqSDZGcEZZUDhwcTg5TT0i%0AfQ==%0A
+  sha: a71fb0faa2504ed91d9d1f74cc8499e9c90cb560
+  size: 19968040
+login/cloudfoundry-login-server-1.2.0.war:
+  object_id: eyJvaWQiOiI0ZTRlNzhiY2ExMWUxMjEwMDRlNGU3ZDUxMWY4MjEwNTEzNjYz%0AMTcwODgwYyIsInNpZyI6IkFCSitUZm1HanF1RGZlb1RuVVA0UTNUL0w1RT0i%0AfQ==%0A
+  sha: 696c1937cf2f2959f11e872d9ec8a6b66913c1eb
+  size: 7277498
+

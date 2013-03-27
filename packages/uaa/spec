@@ -1,0 +1,5 @@
+---
+name: uaa
+dependencies:
+files:
+- uaa/**/*

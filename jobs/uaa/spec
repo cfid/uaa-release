@@ -1,0 +1,18 @@
+---
+name: uaa
+templates:
+  uaa_ctl.erb: bin/uaa_ctl
+
+  uaa.yml.erb: config/uaa.yml
+  varz.yml.erb: config/varz.yml
+  log4j.properties.erb: config/log4j.properties
+  varz.log4j.properties.erb: config/varz.log4j.properties
+  tomcat.logging.properties: config/tomcat/logging.properties
+  tomcat.server.xml.erb: config/tomcat/server.xml
+  syslog_forwarder.conf.erb: config/syslog_forwarder.conf
+
+packages:
+  - common
+  - ruby
+  - syslog_aggregator
+  - uaa
